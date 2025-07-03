@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Estate-landing-page/static/css/main.70a6661b.css",
-    "main.js": "/Estate-landing-page/static/js/main.eff10085.js",
+    "main.js": "/Estate-landing-page/static/js/main.a373fa78.js",
     "static/media/header_img.png": "/Estate-landing-page/static/media/header_img.46dc24e9bfa49b075938.png",
     "static/media/brand_img.png": "/Estate-landing-page/static/media/brand_img.e2eb95b624915fbff01e.png",
     "static/media/project_img_3.jpg": "/Estate-landing-page/static/media/project_img_3.3f324fa6e1bd2cab2758.jpg",
@@ -16,10 +16,10 @@
     "static/media/logo.svg": "/Estate-landing-page/static/media/logo.e3285c1bf13781a7fe2952fb3de7da4c.svg",
     "index.html": "/Estate-landing-page/index.html",
     "main.70a6661b.css.map": "/Estate-landing-page/static/css/main.70a6661b.css.map",
-    "main.eff10085.js.map": "/Estate-landing-page/static/js/main.eff10085.js.map"
+    "main.a373fa78.js.map": "/Estate-landing-page/static/js/main.a373fa78.js.map"
   },
   "entrypoints": [
     "static/css/main.70a6661b.css",
-    "static/js/main.eff10085.js"
+    "static/js/main.a373fa78.js"
   ]
 }
